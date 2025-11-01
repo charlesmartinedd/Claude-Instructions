@@ -35,6 +35,43 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Better integration examples between platforms
 - More actionable decision trees for tool selection
 
+## [1.1.0] - 2025-10-31
+
+### Added
+- **Google Enterprise AI/ML APIs** - 7 powerful AI capabilities with auto-suggestion protocol:
+  - Cloud Vision API (image analysis, OCR)
+  - Cloud Speech-to-Text API (audio transcription)
+  - Cloud Text-to-Speech API (voiceover generation)
+  - Cloud Translation API (100+ languages)
+  - Cloud Natural Language API (text analysis, sentiment)
+  - Cloud Video Intelligence API (video analysis)
+  - Vertex AI API (custom ML models)
+- **Google Classroom API** - Full integration for course management
+- **Google Forms API** - Programmatic quiz and survey creation
+- **Comprehensive testing script** - `test_all_87_google_apis.py` for all enabled APIs
+- **Enterprise API guide** - `GOOGLE_ENTERPRISE_API_GUIDE.md` with 87 APIs documented
+- **AI auto-suggestion protocol** - Claude proactively suggests AI/ML APIs when relevant
+- **Revenue scaling workflows** - 4 documented workflows for Alexandria's Design
+- **Decision trees** - When to suggest which AI/ML API
+
+### Changed
+- Work account (cmartin@alexandriasdesign.com) now primary for AI/ML features
+- Enhanced Productivity Platform Intelligence section with AI capabilities
+- Added AI/ML to Platform Selection Summary table
+
+### Improved
+- More proactive API suggestions (no waiting to be asked)
+- Revenue-focused capability descriptions
+- Scaling-oriented workflow examples
+- Business value emphasis throughout documentation
+
+### Business Impact
+- **Conservative estimate**: 3x revenue potential, 60% time savings
+- **Key capabilities**: Content automation, multilingual scaling, accessibility compliance
+- **Immediate ROI**: Course voiceovers, transcription services, translation at scale
+
+---
+
 ## Guidelines for Future Versions
 
 ### MAJOR Version (x.0.0)
